@@ -1,4 +1,4 @@
-'Replaces StringA with StringB and vice versa, switching the two.
+'Replaces StringA with StringB and vice versa, Swapping the two.
 'This will not be done with formulas
 'This will be done in all excel files in HostFolder and all its sub folders
 
